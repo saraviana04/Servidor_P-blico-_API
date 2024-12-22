@@ -47,6 +47,15 @@ Exemplo de Resposta:
     "naturalidade": "Recife"
   }
 ]
+Consultar Servidor por Matrícula via postman
+
+
+
+
+
+
+
+
 
 Consultar Servidor por Matrícula
 
